@@ -8,3 +8,4 @@ time
 matplotlib.pyplot
 scipy 
 groq_translator
+SpeechRecognition
