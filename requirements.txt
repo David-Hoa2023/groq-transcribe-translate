@@ -1,0 +1,10 @@
+streamlit
+os
+tempfile
+sounddevice
+soundfile
+numpy
+time
+matplotlib.pyplot
+scipy 
+groq_translator
